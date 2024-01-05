@@ -1,0 +1,6 @@
+numpy
+pandas
+Flask
+langchain
+gpt_index
+-e .
